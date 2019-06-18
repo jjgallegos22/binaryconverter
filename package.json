@@ -1,0 +1,22 @@
+{
+  "name": "binaryconverter",
+  "version": "1.0.0",
+  "description": "Converts strings to binary",
+  "main": "BinaryConverter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjgallegos22/binaryconverter.git"
+  },
+  "keywords": [
+    "binary"
+  ],
+  "author": "Jose Gallegos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjgallegos22/binaryconverter/issues"
+  },
+  "homepage": "https://github.com/jjgallegos22/binaryconverter#readme"
+}
