@@ -1,5 +1,5 @@
 {
-  "name": "binaryconverter",
+  "name": "binary-converter-hozee",
   "version": "1.0.0",
   "description": "Converts strings to binary",
   "main": "BinaryConverter.js",
